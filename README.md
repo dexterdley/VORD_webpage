@@ -2,13 +2,16 @@
 
 This is the repository that contains source code for the [VORD website](https://dexterdley.github.io/VORD_webpage/).
 
-If you find Nerfies useful for your work please cite:
+If you find VORD useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{neo2024vordvisualordinalcalibration,
+      title={VORD: Visual Ordinal Calibration for Mitigating Object Hallucinations in Large Vision-Language Models}, 
+      author={Dexter Neo and Tsuhan Chen},
+      year={2024},
+      eprint={2412.15739},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.15739}, 
 }
 ```
 
